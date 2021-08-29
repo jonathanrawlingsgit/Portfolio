@@ -56,6 +56,7 @@ header ul a {
 
 .social-header, .hero-design {
   display: none;
+
 }
 
 .hero {
@@ -85,6 +86,7 @@ header ul a {
 .scroll {
   width: 30px;
   margin-top: 2em;
+  
 }
 
 section {
