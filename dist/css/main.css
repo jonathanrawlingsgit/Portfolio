@@ -21,11 +21,11 @@ img {
 }
 
 .nav-container {
-  background: #4744CC;
+  background: #93b3a1;
 }
 
 .nav-container a {
-  color: white;
+  color: rgb(0, 0, 0);
 }
 
 header {
@@ -39,7 +39,7 @@ header {
 }
 
 header .logo {
-  color: #0DCDD3;
+  color: #ffffff;
   font-weight: bold;
 }
 
@@ -59,8 +59,8 @@ header ul a {
 }
 
 .hero {
-  background: #504DDE;
-  color: white;
+  background: #A0C1AF;
+  color: rgb(0, 0, 0);
   display: -ms-grid;
   display: grid;
   text-align: center;
@@ -74,7 +74,7 @@ header ul a {
   margin: 0 auto;
   width: 200px;
   font-weight: bold;
-  color: #D481FB;
+  color: #F8FB81;
 }
 
 .meet span {
@@ -102,7 +102,8 @@ section {
   width: 200px;
   height: 200px;
   border-radius: 50%;
-  background: #D481FB;
+  background: #5A7265;
+  opacity: 60%;
   top: 0;
   left: 0;
   z-index: -1;
@@ -111,7 +112,7 @@ section {
 .subtitle {
   text-transform: uppercase;
   font-weight: bold;
-  color: #FF89D7;
+  color: #F8FB81;
   letter-spacing: .2em;
   font-size: .85em;
 }
@@ -133,7 +134,7 @@ section {
 }
 
 .skills {
-  background: #D481FB;
+  background: #F8FB81;
 }
 
 .skills-container ul li {
@@ -232,7 +233,7 @@ section {
     background: unset;
   }
   .nav-container header {
-    background: #4744CC;
+    background: #93b3a1;
   }
   header {
     padding: 2em 2em 2em 4em;
@@ -268,7 +269,7 @@ section {
     padding: 0;
   }
   .hero .content {
-    background: #504DDE;
+    background: #A0C1AF;
     padding: 6em 8em 6em 4em;
     text-align: left;
   }
