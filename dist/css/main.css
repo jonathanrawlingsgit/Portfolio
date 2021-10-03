@@ -118,7 +118,10 @@ section {
   letter-spacing: .2em;
   font-size: .85em;
 }
-
+img {
+  border-radius: 10%;
+  border: 1px solid white;
+}
 .featured-title {
   color: white;
   font-weight: bold;
