@@ -28,6 +28,10 @@ img {
   color: rgb(0, 0, 0);
 }
 
+#personal-logo{
+  width: 105px;
+  border: none;
+}
 header {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -148,8 +152,11 @@ img {
   padding: 2em;
   border-radius: 1em;
   margin-bottom: 1em;
+  
 }
-
+#img-skill1, #img-skill2, #img-skill3{
+  border: none;
+}
 .skills-container ul li .icon-container {
   height: 100px;
   display: -ms-grid;
@@ -163,6 +170,7 @@ img {
 }
 
 .skills-container ul li .icon-container.two {
+
   width: 100px;
 }
 
@@ -210,6 +218,7 @@ img {
     margin-top: -5em;
     margin-bottom: -7em;
     padding-top: 7em;
+    
   }
   .skills-container ul {
     display: -ms-grid;
