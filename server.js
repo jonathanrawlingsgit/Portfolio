@@ -1,3 +1,4 @@
+console.log("hello")
 gsap.registerPlugin(ScrollTrigger);
         var tl = gsap.timeline();
 

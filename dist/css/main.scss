@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&display=swap');
 
 body {
-    background: black;
+    background: #0D1B2A;
     height: 100vh;
     margin: 0;
     font-family: 'Poppins', arial;
@@ -18,7 +18,7 @@ a {
 img {width: 100%;}
 
 .nav-container {
-    background: #93b3a1;
+    background: #415A77;
 
     a {
         color: white;
@@ -31,7 +31,7 @@ header {
     padding: 2em;
 
     .logo {
-        color: #0DCDD3;
+        color: #cecece;
         font-weight: bold;
     }
 
@@ -50,7 +50,7 @@ header {
 }
 
 .hero {
-    background: #504DDE;
+    background: #778DA9;
     color: white;
     display: grid;
     text-align: center;
@@ -89,7 +89,7 @@ section {
     width: 200px;
     height: 200px;
     border-radius: 50%;
-    background: #D481FB;
+    background: #778DA9;
     top: 0;
     left: 0;
     z-index: -1;
@@ -120,7 +120,7 @@ section {
 }
 
 .skills {
-    background: #D481FB;
+    background: #778DA9;
 }
 
 .skills-container ul li {
@@ -216,7 +216,7 @@ section {
         background: unset;
 
         header {
-            background:  #4744CC;
+            background:  #415A77;
         }
     }
     header {
@@ -251,7 +251,7 @@ section {
         padding: 0;
 
         .content {
-            background: #504DDE;
+            background: #778DA9;
             padding: 6em 8em 6em 4em;
             text-align: left;
 
