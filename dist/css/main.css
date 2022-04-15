@@ -82,14 +82,14 @@ header ul a {
 }
 .green-letter{
   color: whitesmoke;
-  font-size: 2em;
+  font-size: 1em;
   letter-spacing: -1px;
   font-weight: 400;
   text-shadow: 3px 5px 4px #000000;
 }
 
 .small-letters{
-  font-size: 2em;
+  font-size: 1.7em;
   font-weight: 100;
   color: #81FBA3;
   letter-spacing: 1px;
